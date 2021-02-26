@@ -1,0 +1,7 @@
+Longitud de onda vs Temperatura
+Temperatura (K)
+Longitud de onda (µm)
+
+
+Densidad de potencia radiada (W/m^2)
+Longitud de onda (µm)
